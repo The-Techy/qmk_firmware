@@ -16,7 +16,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include "k8.h"
+include "k8.h"
 ifdef BLUETOOTH_ENABLE
 include "outputselect.h"
 include "iton_bt.h"
